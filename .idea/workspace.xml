@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7feb6149-2ffb-4a9d-8f6c-3f0461ab0eb0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/elementary task 1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary task 3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary task 4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary task 5.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary task 6.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary task 7.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary task 8.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary task2.ipynb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elementary_task_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/elementary task 1.py" />
+        <option value="$PROJECT_DIR$/teseract.py" />
+        <option value="$PROJECT_DIR$/opencv.py" />
+        <option value="$PROJECT_DIR$/elementary task 8.py" />
+        <option value="$PROJECT_DIR$/elementary task 7.py" />
+        <option value="$PROJECT_DIR$/elementary task 5.py" />
+        <option value="$PROJECT_DIR$/tests/test_elementary task 5.py" />
+        <option value="$PROJECT_DIR$/test_number_to_words.py" />
+        <option value="$PROJECT_DIR$/test_words_1_to_999.py" />
+        <option value="$PROJECT_DIR$/elementary_task_5.py" />
+        <option value="$PROJECT_DIR$/test_number_to_chunks.py" />
+        <option value="$PROJECT_DIR$/elementary_task_1.py" />
+        <option value="$PROJECT_DIR$/test_chess_desk_Task1.py" />
+        <option value="$PROJECT_DIR$/elementary task 2.py" />
+        <option value="$PROJECT_DIR$/elementary task 3.py" />
+        <option value="$PROJECT_DIR$/elementary task 4.py" />
+        <option value="$PROJECT_DIR$/test_square_Task3.py" />
+        <option value="$PROJECT_DIR$/elementary_task_3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="1193" />
+    <option name="height" value="957" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elementary_tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elementary_tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elementary_tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elementary_tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.elementary task 3">
+    <configuration name="elementary task 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="elementary_tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elementary_task_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="elementary task 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="elementary_tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elementary_task_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="elementary task 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="elementary_tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elementary_task_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in /home/kerch007/elementary_tasks/test_chess_desk_Task1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="elementary_tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_chess_desk_Task1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_square_Task3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="elementary_tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_square_Task3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.elementary task 3" />
+        <item itemvalue="Python tests.Unittests in test_square_Task3.py" />
+        <item itemvalue="Python.elementary task 4" />
+        <item itemvalue="Python.elementary task 2" />
+        <item itemvalue="Python tests.Unittests in /home/kerch007/elementary_tasks/test_chess_desk_Task1.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7feb6149-2ffb-4a9d-8f6c-3f0461ab0eb0" name="Default Changelist" comment="" />
+      <created>1548235130381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548235130381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_chess_desk_Task1_py - 2019.01.30 at 13h 10m 25s.xml">
+      <configuration name="Unittests in test_chess_desk_Task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_chess_desk_Task1_py - 2019.01.30 at 13h 10m 38s.xml">
+      <configuration name="Unittests in test_chess_desk_Task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_chess_desk_Task1_py - 2019.01.30 at 13h 19m 54s.xml">
+      <configuration name="Unittests in test_chess_desk_Task1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_square_Task3_py - 2019.01.30 at 13h 31m 59s.xml">
+      <configuration name="Unittests in test_square_Task3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_square_Task3_py - 2019.01.30 at 13h 33m 39s.xml">
+      <configuration name="Unittests in test_square_Task3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_square_Task3_py - 2019.01.30 at 13h 34m 20s.xml">
+      <configuration name="Unittests in test_square_Task3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_square_Task3_py - 2019.01.30 at 13h 42m 05s.xml">
+      <configuration name="Unittests in test_square_Task3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_square_Task3_py - 2019.01.30 at 13h 44m 09s.xml">
+      <configuration name="Unittests in test_square_Task3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_square_Task3_py - 2019.01.30 at 13h 45m 00s.xml">
+      <configuration name="Unittests in test_square_Task3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_square_Task3_py - 2019.01.30 at 13h 45m 43s.xml">
+      <configuration name="Unittests in test_square_Task3.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1213" height="999" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27335048" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32873562" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975846" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32971016" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/temp.png" />
+    <entry file="file://$PROJECT_DIR$/../ocr_template_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1525">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teseract.py" />
+    <entry file="file://$PROJECT_DIR$/opencv.py" />
+    <entry file="file://$PROJECT_DIR$/tests/test_elementary task 5.py" />
+    <entry file="file://$PROJECT_DIR$/test_number_to_chunks.py" />
+    <entry file="file://$PROJECT_DIR$/test_number_to_words.py" />
+    <entry file="file://$PROJECT_DIR$/test_words_1_to_999.py" />
+    <entry file="file://$PROJECT_DIR$/elementary_task_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_chess_desk_Task1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementary_task_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementary_task_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementary_task_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementary task 6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementary task 8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementary task 7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_square_Task3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_number_to_words_Task5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_number_to_chunks_Task5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementary_task_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
